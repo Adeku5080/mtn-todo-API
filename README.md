@@ -5,8 +5,15 @@
 First clone this repository, install the dependencies.
 
 ```
-git clone git@github.com:Adeku5080/todo_api.git
-composer install
+git@github.com:Adeku5080/mtn-todo-API.git
+
+```
+
+Install dependcies 
+
+```
+ composer install
+
 ```
 
 And run the initial migrations.
