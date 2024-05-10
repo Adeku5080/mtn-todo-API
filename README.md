@@ -20,6 +20,11 @@ Generate Jwt Secret
 ```
 php artisan jwt:secret
 ```
+Run Tests
+
+```
+php artisan test
+```
 
 Link to API documentation
 
